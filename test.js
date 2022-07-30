@@ -16,4 +16,7 @@ for (var item in obj) {
 
 
 //3
-var lists = [0,1,2,3,4,5]; for (list of lists) { console.log(list); };
+var lists = [0,1,2,3,4,5];
+for (list of lists) {
+  console.log(list);
+};
